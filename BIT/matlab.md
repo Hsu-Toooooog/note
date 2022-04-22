@@ -75,3 +75,9 @@ t = [1,2,3]		//declare a row vector
 help()
 ```
 
+##### 如何添加图例
+
+```matlab
+legend('图例一'，‘图例二’)	//使用legend(参数)
+```
+

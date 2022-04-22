@@ -51,7 +51,8 @@ https://zhuanlan.zhihu.com/p/158156773
    \frac{}{}
    ```
 
-2. 
+2. 一些常用符号
+     $\infty$
 
 ### 创建超链接
 

@@ -65,6 +65,13 @@ t = [1,2,3]		//declare a row vector
 
 [MATLAB - Commands (tutorialspoint.com)](https://www.tutorialspoint.com/matlab/matlab_commands.htm)
 
+# Simulink
+
+### Simulink模块库:
+
+1. Sinks：输出模块	//out模块提供与matlab主程序的interface
+2. sources：源模块    //in模块提供与matlab主程序的interface
+
 # 杂项
 
 # Q&A
@@ -72,7 +79,7 @@ t = [1,2,3]		//declare a row vector
 ##### 如何查看帮助
 
 ```
-help()
+help ***
 ```
 
 ##### 如何添加图例

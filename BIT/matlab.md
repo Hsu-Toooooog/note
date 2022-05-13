@@ -71,6 +71,34 @@ t = [1,2,3]		//declare a row vector
 
 1. Sinks：输出模块	//out模块提供与matlab主程序的interface
 2. sources：源模块    //in模块提供与matlab主程序的interface
+3. Commonly Used Blocks常用模块
+   1. Mux: 将多个信号综合为向量输出(每个输入信号作为输出的一个分量)
+   2. Gain: 增益模块
+
+### Q&A
+
+##### simulink如何读取工作区中参数
+
+1. 编辑工作区，将所需参数赋值后添加至工作区
+
+2. ```
+   save <filename>		//将当前工作区的变量全部保存至"filename.mat"
+   ```
+
+3. 需要读取参数时
+
+   ```
+   load('filename.mat')
+   ```
+
+##### simulink如何在连线上引出分支
+
+按住Ctrl然后用鼠标拖拽a
+
+##### simulink如何添加图注
+
+双击任意空白处输入文字
+
 
 # 杂项
 

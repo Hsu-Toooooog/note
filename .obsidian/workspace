@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "e0cba8f6508eee88",
+    "type": "split",
+    "children": [
+      {
+        "id": "59e7364b9c9561dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe36a614f7238078",
+    "type": "split",
+    "children": [
+      {
+        "id": "13957d1173a75ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71476137005d6bdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26c6cbee2b350ee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67e0f447606e1400",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e89a4871a7e7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e3ec16ba2612385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59e7364b9c9561dc",
+  "lastOpenFiles": [
+    "test.md.md",
+    "BIT/汇编.md"
+  ]
+}

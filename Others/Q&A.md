@@ -159,6 +159,20 @@ ctrl + 方向键 // 以单词为单位移动光标
 Alt+←
 ```
 
+### 调出自动补全
+
+```
+Ctrl + space
+```
+
+### 自动格式化
+
+```
+Shift + Alt + F
+```
+
+
+
 # 深度学习相关
 
 ### yolo测试时报错libcudart.so.8.0: cannot open shared object file: No such file or directory

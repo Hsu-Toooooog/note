@@ -99,6 +99,14 @@ t = [1,2,3]		//declare a row vector
 
 双击任意空白处输入文字
 
+##### simulink如何创建子系统
+
+```
+ctrl+G
+```
+
+
+
 
 # 杂项
 

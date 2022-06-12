@@ -126,6 +126,37 @@ https://blog.csdn.net/u010205128/article/details/80995340
 
 # Ubuntu使用问题
 
+## 常用的一些指令
+
+### 文件管理类：
+
+##### Listing files and directories
+
+1. ls
+2. cd
+3. cp
+4. mkdir(make directory)
+5. pwd (print working directory)
+
+##### Operating Files
+
+1. cp
+2. mv
+3. rm
+4. rmdir
+
+##### Searching Files
+
+1. locate
+2. find -name
+
+##### Else
+
+1. clear(清屏)
+2. less **文件名.扩展名**（用于读取文本）
+
+
+
 ### 工具相关
 
 ##### 查看GPU使用情况

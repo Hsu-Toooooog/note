@@ -155,6 +155,14 @@ https://blog.csdn.net/u010205128/article/details/80995340
 1. clear(清屏)
 2. less **文件名.扩展名**（用于读取文本）
 
+### 包管理：
+
+如何查看已安装的包版本？
+
+```
+dpkg -l [|grep "package_name"]
+```
+
 
 
 ### 工具相关
